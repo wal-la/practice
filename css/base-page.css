@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&family=Sunflower:wght@300&display=swap');
+
+
+:root {
+    --main-color:#121212;
+    --main-font: Sunflower;
+}
+body{
+    background-color: var(--main-color);
+    color: #ffffff;
+    font-family: var(--main-font);
+}
